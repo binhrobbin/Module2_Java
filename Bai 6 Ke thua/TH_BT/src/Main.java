@@ -13,29 +13,3 @@ public class Main {
         }
     }
 }
-//public class A {
-//    public String name = "aaaa";
-//    public String id = "aaaa";
-//    static public class B {
-//        public String name ="bbbb";
-//    }
-//
-//    public class C {
-//        public String name ="cccc";
-//    }
-//
-//    public static void main(String[] args) {
-//        B o = new B();
-//        System.out.println(o.name);
-//        A o1 = new A();
-//        System.out.println(o1.name);
-////        C o2 = new C();   //lỗi
-////        System.out.println(o2.id);
-//        A.B o3 = new A.B();   // Tạo cho B
-//        System.out.println(o3.name);
-////        A.C o4 = new A.C(); // lỗi
-//        A.C o5 = new A().new C(); //Tạo cho C
-//        System.out.println(o5.name);
-////        System.out.println(o5.id);
-//    }
-//}
