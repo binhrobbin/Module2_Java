@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 public class Main {
-    static Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        StudentManager manager = new StudentManager();
         boolean notExit = true;
-        StudentManager.displaydefault();
+        manager.displaydefault();
         while (notExit) {
-            int checkNumberOfChoice = 0;
-            do {
                 System.out.println("---------------------");
                 System.out.println(">>>>> Quản lý học sinh <<<<<: ");
                 System.out.println("0: Thoát");
@@ -19,39 +19,33 @@ public class Main {
                 System.out.println("6: Tìm kiếm theo ID: ");
                 System.out.println("Mời bạn nhập lựa chọn: ");
                 int choice = Integer.parseInt(scanner.nextLine());
-                if (choice == 0) {
-                    notExit = false;
-                    checkNumberOfChoice++;
+                switch (choice) {
+                    case 0:
+                        notExit = false;
+                        break;
+                    case 1:
+                        manager.display();
+                        break;
+                    case 2:
+                        manager.addStudent();
+                        break;
+                    case 3:
+                        manager.editStudent();
+                        break;
+                    case 4:
+                        manager.deleteStudent();
+                        break;
+                    case 5:
+                        manager.searchName();
+                        break;
+                    case 6:
+                        manager.searchID();
+                        break;
+                    default:
+                        System.out.println("---------------------");
+                        System.out.println("Bạn nhập sai cú pháp");
+                        break;
                 }
-                if (choice == 1) {
-                    StudentManager.display();
-                    checkNumberOfChoice++;
-                }
-                if (choice == 2) {
-                    StudentManager.addStudent();
-                    checkNumberOfChoice++;
-                }
-                if (choice == 3) {
-                    StudentManager.editStudent();
-                    checkNumberOfChoice++;
-                }
-                if (choice == 4) {
-                    StudentManager.deleteStudent();
-                    checkNumberOfChoice++;
-                }
-                if (choice == 5) {
-                    StudentManager.searchName();
-                    checkNumberOfChoice++;
-                }
-                if (choice == 6) {
-                    StudentManager.searchID();
-                    checkNumberOfChoice++;
-                }
-                if (checkNumberOfChoice == 0) {
-                    System.out.println("---------------------");
-                    System.out.println("Bạn nhập sai cú pháp");
-                }
-            }while (checkNumberOfChoice == 0);
         }
     }
 }

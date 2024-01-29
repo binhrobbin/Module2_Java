@@ -1,26 +1,26 @@
 import java.util.Scanner;
 
 public class StudentManager {
-    static Scanner scanner = new Scanner(System.in);
-    static Student[] students = new Student[100];
-    static Student student1 = new Student("Bình", 16, "abc@def");
-    static Student student2 = new Student("Hiếu", 16, "abc@def");
-    static Student student3 = new Student("Khoa", 16, "abc@def");
-    static Student student4 = new Student("Hoàng", 16, "abc@def");
-    static public void displaydefault() {
+    Scanner scanner = new Scanner(System.in);
+    Student[] students = new Student[100];
+    Student student1 = new Student("Bình", 16, "abc@def");
+    Student student2 = new Student("Hiếu", 16, "abc@def");
+    Student student3 = new Student("Khoa", 16, "abc@def");
+    Student student4 = new Student("Hoàng", 16, "abc@def");
+    public void displaydefault() {
         students[0] = student1;
         students[1] = student2;
         students[2] = student3;
         students[3] = student4;
     }
-    static public void display(){
+    public void display(){
         for (Student student:students){
             if (student != null)
             System.out.println(student);
             else break;
         }
     }
-    static public void addStudent(){
+    public void addStudent(){
         System.out.println("Nhập tên mới: ");
         String name = scanner.nextLine();
         System.out.println("Nhập age mới: ");
@@ -37,7 +37,7 @@ public class StudentManager {
         }
 
     }
-    static void editStudent(){
+    void editStudent(){
         int checkSearch = 0;
         do {
             System.out.println("Nhập tên sinh viên bạn muốn sửa:");
@@ -66,7 +66,7 @@ public class StudentManager {
             if (checkSearch == 0) System.out.println("Bạn nhập sai tên");
         }while (checkSearch ==0);
     }
-    static void deleteStudent(){
+    void deleteStudent(){
         int checkSearch = 0;
         do {
             System.out.println("Nhập tên sinh viên bạn muốn xóa:");
@@ -98,7 +98,7 @@ public class StudentManager {
             }
         }
     }
-    static void searchName (){
+    void searchName (){
         System.out.println("Mời bạn nhập tên/ký tự cần tìm");
         String x = scanner.nextLine();
         System.out.println("Danh sách cần tìm của bạn là: ");
@@ -113,7 +113,7 @@ public class StudentManager {
         }
         if (checkSearch == 0) System.out.println("Ko tìm thấy gì");
     }
-    static void searchID (){
+    void searchID (){
         System.out.println("Mời bạn nhập ID cần tìm");
         int x =Integer.parseInt( scanner.nextLine());
         System.out.println("Danh sách cần tìm của bạn là: ");
