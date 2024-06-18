@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5704eca-23e4-43e3-a24a-32b2303cb053" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/TH_BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/src/TH1_TrienKhaiArrayList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/src/TH1_TrienKhaiArrayList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/src/TH2_TrienKhaiLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/TH_BT/src/TH2_TrienKhaiLinkedList/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/TH_BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt1_DaoNguocPhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt2_DemSoLanXuatHienCuaTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt3_ThapPhan_NhiPhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt4_ChuoiDoiXung_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt5_KiemTraNgoacDung_sym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 11 Stack Queue/TH_BT/src/bt6_ToChucDL_Demerging_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/Map_array/UseMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/QLSinhVien_Map/RunStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/QLSinhVien_Map/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/QLSinhVien_Map/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_ArrayList/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_ArrayList/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_ArrayList/TestProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_LinkedList/PriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_LinkedList/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_LinkedList/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/bt1_Product_LinkedList/TestProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/compare/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/compare/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/compare/TestCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/phanBiet_HashMap_HashSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/phanBiet_HashMap_HashSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 12 Map Tree &amp; java Collection Framework/BaiTapApDung/src/th1_TestMap/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/Bt_Them___Mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/Tap_Con.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_11_In/InPhanTuChan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_11_In/InPhanTuLonHonBefore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_11_In/SoAm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_12_TongChanLe/SoSanhTongChanLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_12_TongChanLe/TongViTriLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_12_TongChanLe/TongViTriPhanTuChan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_13_max/TimMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_13_max/TimMaxMang2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_13_max/TimMaxThu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_14_TrungBinh/TongCacPhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_14_TrungBinh/TongCacPhanTuChiaHet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_14_TrungBinh/TrungBinhCacPhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_15_MangTangDan/A_NamTrong_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_15_MangTangDan/KTMangTangDan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_16_TanSoXuatHien/DemSoLanXuatHien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_16_TanSoXuatHien/InPhanTuCo1Minh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_17/MangChuaTu_1_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_17/TimCacPhanTuChungAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_17/TimDayConMaxSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_18_Tim/DayConLienTiepMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_18_Tim/HaiSoTichLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_18_Tim/K_PhanTuLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_19/Child_Sum_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_19/SapXepChanTruocLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/Bt_Them_Mang/src/bai_19/TimCapPhanTuCoSUM_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/DeQuy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/Tap_Con.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai20_GiaiThua_UCLN/GiaiThua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai20_GiaiThua_UCLN/Tong1_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai20_GiaiThua_UCLN/UCLN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai21_LuyThua_Tim/LuyThuaBac_n_of_x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai21_LuyThua_Tim/TimSoChuSo_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai22_Chuoi_TinhS/KT_ChuoiDoiXung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/DeQuy/src/bai22_Chuoi_TinhS/TinhS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/ThuatToan_If_For.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_10_HoanVi_abc/CoTrung_Co0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_10_HoanVi_abc/CoTrung_Khac0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_10_HoanVi_abc/KhongTrung_Khac0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_1_KT_TamGiac/ChanLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_1_KT_TamGiac/KiemTra_TamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_1_KT_TamGiac/max_in_abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_2_LaiNganHang/LaiNganHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_2_LaiNganHang/PhanLoaiHocSinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_3_soChinhPhuong/Fizz_Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_3_soChinhPhuong/soChinhPhuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_3_soChinhPhuong/soChinhPhuong2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_3_soChinhPhuong/soLeTu_A_den_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_4_TongBinhPhuong/TongBinhPhuongTuX_Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_4_TongBinhPhuong/TongChanTuA_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_4_TongBinhPhuong/TongTuA_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_5_TinhS_BieuThuc/TinhS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_5_TinhS_BieuThuc/TinhS2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_5_TinhS_BieuThuc/TinhS3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_6_Uoc_Boi/LietKe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_6_Uoc_Boi/LietKe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_6_Uoc_Boi/UCLN_BCNN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_7_ReadNumber/DocSo1ChuSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_7_ReadNumber/DocSo2ChuSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_7_ReadNumber/DocSo3ChuSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_9_Tien/_20000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThuatToan_If_For/src/bai_9_Tien/xDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/ThucHanh_BaiTap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/ASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/ChuoiLienTiepTang_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/ChuoiTangDanMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/Op1_ASCII2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/Op2_NhiPhan_DeQuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 13 Thuat Toan Tim Kiem/ThucHanh_BaiTap/src/Th1_NhiPhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 14 Thuat Toan Sap Xep/TH_BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 14 Thuat Toan Sap Xep/TH_BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 14 Thuat Toan Sap Xep/TH_BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 14 Thuat Toan Sap Xep/TH_BT/TH_BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 14 Thuat Toan Sap Xep/TH_BT/src/trien_khai_thuat_toan/Bubble_Selection_Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/QuanLySinhVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/src/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/QuanLySinhVien/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/TH_BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/src/Bt1_TriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/src/TH1_Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/src/TH2_mang100_InputMismatchE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 15 Xu ly ngoai le &amp; Debug/TH_BT/src/TH3_NumberFormatE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/StudentManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/data/student.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/dto_dataTransferObject/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/dto_dataTransferObject/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/input/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/input/StudentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/view/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/StudentManager/src/view/UserMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/TH-BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/TH1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt1/CoppyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt1/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt1/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt2/Read_CSV_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt2/codegym/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt2/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt2/codegym/countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/bt2/file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/th2/FindMaxInText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/th2/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 16 IO Text File/TH-BT/src/th2/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/src/IO_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/src/Read_Write_BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/Demo/student.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/ProductManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/data/account.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/data/product.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/input/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/view/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/view/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/view/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/view/ProductMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 17 IO Binary File Read &amp; Write/ProductManager/src/view/TypeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/TH_BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/bt1/Ten_Lop_Hoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/bt2/Mobile_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/bt_add/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/th1/EmailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/th1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/th2/AccountExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/th2/TestAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai 19 String/TH_BT/src/th3/CrawlSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/Data/rooms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/Data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/QuanLyKhachSan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/dto/RoomDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/input/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/input/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/view/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/view/RoomManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNhanVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/user.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/EmployeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/EService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/Bt_Them___Mang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/Tap_Con.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_11_In/InPhanTuChan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_11_In/InPhanTuLonHonBefore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_11_In/SoAm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_12_TongChanLe/SoSanhTongChanLe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_12_TongChanLe/TongViTriLe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_12_TongChanLe/TongViTriPhanTuChan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_13_max/TimMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_13_max/TimMaxMang2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_13_max/TimMaxThu2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_14_TrungBinh/TongCacPhanTu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_14_TrungBinh/TongCacPhanTuChiaHet3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_14_TrungBinh/TrungBinhCacPhanTu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_15_MangTangDan/A_NamTrong_B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_15_MangTangDan/KTMangTangDan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_16_TanSoXuatHien/DemSoLanXuatHien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_16_TanSoXuatHien/InPhanTuCo1Minh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_17/MangChuaTu_1_n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_17/TimCacPhanTuChungAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_17/TimDayConMaxSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_18_Tim/DayConLienTiepMaxSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_18_Tim/HaiSoTichLonNhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_18_Tim/K_PhanTuLonNhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_19/Child_Sum_0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_19/SapXepChanTruocLe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/Bt_Them_Mang/src/bai_19/TimCapPhanTuCoSUM_X.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/QuanLySinhVien/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai 10 ArrayList LinkedList/QuanLySinhVien/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/Map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/src/Map_array/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/src/QLSinhVien_Map/RunStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/src/QLSinhVien_Map/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai 12 Map Tree/BaiTapApDung/src/QLSinhVien_Map/StudentManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2d09xDfoWrsl2hPxeC1BSe7d5ug" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodeGym_Repository_/Md2_Java/Case/QuanLyNhanVien",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/CodeGym_Repository_/Md2_Java/Case/QuanLyNhanVien/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym_Repository_\Md2_Java\Case\QuanLyNhanVien\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dto" />
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5704eca-23e4-43e3-a24a-32b2303cb053" name="Changes" comment="" />
+      <created>1709134374521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709134374521</updated>
+      <workItem from="1709134375654" duration="1079000" />
+      <workItem from="1709169694619" duration="25995000" />
+      <workItem from="1709209666933" duration="2237000" />
+      <workItem from="1709255936336" duration="1017000" />
+      <workItem from="1709256964873" duration="21000" />
+      <workItem from="1709256998279" duration="10722000" />
+      <workItem from="1709275432440" duration="12706000" />
+      <workItem from="1709296958559" duration="2396000" />
+      <workItem from="1709301405501" duration="27000" />
+      <workItem from="1709301442402" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

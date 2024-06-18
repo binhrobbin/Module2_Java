@@ -1,0 +1,10 @@
+id, tên, tuổi, sdt, địa chỉ, email, loại, trạng thái, số ngày công
+1, binh, 30, 0969889889, abc, abc@gmail.com, full-time, true, 23
+2, trang, 20, 0111111111, abc, abc@gmail.com, part-time, true, 15
+3, hieu, 22, 0555555555, dfs, hkj@gmail.com, full-time, false, 20
+5, huy, 18, 0333333333, add, ee@gmail.com, part-time, true, 13
+6, khoa, 21, 0999999999, vee, caa@gmail.com, full-time, false, 25
+7, hoai, 22, 0888888888, dfs, hkj@gmail.com, full-time, true, 21
+8, van, 26, 0777777777, thp, wtt@gmail.com, part-time, false, 16
+9, thang, 33, 0999999999, das, jkn@gmail.com, full-time, true, 22
+124, huyaaa, 34, 0111111111, sâ, sad@gmail.com, full-time, true, 0

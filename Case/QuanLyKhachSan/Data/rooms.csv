@@ -1,0 +1,4 @@
+id, tên phòng, giá, sl phòng tắm, sl phòng ngủ, trạng thái
+01, Đôi, 550, 1, 2, sẵn sàng
+02, Đơn, 350, 1, 1, đang trống
+03, VIP, 850, 2, 4, đang sửa
